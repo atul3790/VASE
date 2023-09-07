@@ -1,5 +1,6 @@
 # VASE
 VizieR ALMA and SIMBAD Explorer
+
 ##################### Vizier ALMA and SIMBAD Explorer (VASE) Manual ###################### ##########################################################################################
 
 VASE is a package which can be used to retrieve information about any astronomical object. It is however specially tuned for stellar observations. The directory structure of VASE is shown below.
