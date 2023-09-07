@@ -1,0 +1,43 @@
+* ksi Boo B
+HD 139751
+HD 358623
+V* GL Vir
+BD+05 378
+BD+19 5116B
+G 51-15
+HD 56124
+V* V374 Peg
+HD 9986
+HD 190771
+V* LQ Hya
+BD+13 2618
+BD+61 195
+HD 175726
+V* V1005 Ori
+V* OT Ser
+BD+19 5116A
+BD+16 2708
+V* DS Leo
+V* EV Lac
+V* V889 Her
+* 61 Cyg A
+HD 102195
+* 111 Tau
+V* YZ CMi
+* 5 LMi
+BD+20 2465
+V* EK Dra
+V* AB Dor
+HD 179949
+* 18 Sco
+* kap01 Cet
+* chi01 Ori
+* 107 Psc
+HD 76151
+* pi.01 UMa
+* 54 Psc
+V* HN Peg
+HD 130322
+* 61 UMa
+HD 189733
+* eps Eri
