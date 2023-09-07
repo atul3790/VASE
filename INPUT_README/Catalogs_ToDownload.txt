@@ -1,0 +1,4 @@
+# IF you don't know the Vizier link please type in 'None' as Vizier link. 
+#Catalog	Vizier_link
+#-------	-----------
+PASTEL	B/pastel/pastel

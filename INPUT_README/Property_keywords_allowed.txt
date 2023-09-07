@@ -1,0 +1,26 @@
+#Keyword		Description
+#-------		-----------
+RA				RA
+DEC				DEC
+Distance		Distance to star
+SpType			Spectral Type
+Age				Age
+M				Mass
+R				Radius
+Period			Time Period
+Teff			Effective Surface Temperature
+Lbol			Bolometric Luminosity
+B_l				Longitudinal Magnetic field
+Mv				Absolute V magnitude
+V				Apparent V magnitude
+B-V				Color B-V
+logLx			Log10(L_Xray)
+logRx			Log10(L_Xray/L_bolometric)
+logRHK			Log10(CaII H+K flux / Net background flux in R & V band)
+S				S-index (Wilson)
+logRo			Log10(Rossby number)
+Ro				Rossby Number
+Lbol			Bolometric Luminosity
+Fbol			Bolometric Flux
+vsini			Rotation velocity
+FeH				Metallicity

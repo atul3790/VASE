@@ -1,0 +1,104 @@
+* alf CMa					
+HD 181327					
+HD 206893					
+HD 218396					
+HD 131488					
+HD 121617					
+HD  32297					
+HD 109573					
+HD 107146					
+HD 106906					
+HD  35841					
+* gam Oph					
+HD 170773					
+HD 191089					
+GSC 08350-01924					
+* gam Lep					
+* zet02 Ret					
+* q01 Eri					
+* eps Eri					
+HD 202628					
+HD  44627					
+* tau Cet					
+HD 129590					
+HD 121191					
+LP  349-25					
+*  61 Vir					
+2MASSI J1835379+325954					
+V* V710 Tau					
+*  39 Her					
+HD 143675					
+HD 114082					
+HD 207129					
+HD  38858					
+HD 117214					
+HD  30447					
+HD  38397					
+LP  476-207					
+HD 138813					
+HD  38207					
+MCC 124					
+HD 212695					
+* gam Tri					
+HD 158352					
+GSC2.3 N9OB003170					
+L  836-122					
+Barta 161 12					
+TYC 6872-1011-1					
+CPD-72  2713					
+Smethells 20					
+BD-07  4003					
+RX J2200.7+2715					
+SCR J2010-2801					
+* alf PsA C					
+2MASSW J0335020+234235					
+GJ  2006 B					
+HD 155555C					
+* g Lup					
+LP  353-51					
+HD 182681					
+HD 139084B					
+CD-57  1054					
+HD 164249					
+HD  69830					
+HD 192758					
+BD+05  1668					
+GJ  2006 A					
+V* AU Mic					
+HD 172555					
+* alf Cen A					
+HD  14082B					
+BD+30   397					
+* eta Tel					
+HD   3670					
+V* V645 Cen					
+UCAC2  23646111					
+HD 202917					
+LP  497-33					
+HD  61005					
+HD 112810					
+* alf PsA					
+HD 111520					
+HD 113766					
+HD 110058					
+* eta Crv					
+G 272-61B					
+HD 146181					
+HD 109832					
+HD 145560					
+TVLM 513-46					
+HD  37484					
+HD  98363					
+HD  54341					
+HD 156623					
+HD 145880					
+HD    105					
+* chi01 Ori					
+HD 135953					
+HD 134888					
+UCAC2  24372422					
+HD 113556					
+IRAS 04113+2758					
+HD  38206					
+HD 142446					
+* kap And					

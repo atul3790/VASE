@@ -1,0 +1,31 @@
+#Give the usual title names for the property in different catalogs. 
+#If Table_index_name is [['xyz','kr'],['abc','gr']], the code will look if either 'xyz' & 'kr' or 'abc' & 'gr' 
+#is present in any title keyword and if yes then the value under that title will be assigned to the corresponding property
+#Use 2 tab separation between column entrees
+#,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Use only keywords in the Property_keywords_allowed.txt file.
+#'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' 
+#Property	Table_index_name	Type		UCD
+#--------	----------------	----		---
+RA		['RA','RAJ2000','RAdeg']		float		['POS_EQ_RA_MAIN','POS_EQ_RA_OTHER']
+DEC		['DE','DEdeg','DEC','DEJ2000','DECJ2000']		float		['POS_EQ_DEC_MAIN','POS_EQ_DEC_OTHER']
+Distance		['Dist']		float		['POS_GAL_HC']
+SpType		['SpT','SpType','Type','Sp']		str&float		['SPECT_TYPE_MK','SPECT_TYPE_GENERAL']
+Age		['Age','Agemed']		float		['TIME_AGE']
+M		['Mass','Mstar','M']		float		['PHYS_MASS_MISC']
+R		['Rad','R','Rstar']		float		['PHYS_SIZE_RADIUS_GENERAL']
+Period		['Prot','Period','Per']		float		['TIME_PERIOD']
+Teff		['Teff']		float		['PHYS_TEMP_EFFEC','PHYS_TEMP_MISC']
+Lbol		['L','LBol','Lum','Lstar']		float		['PHOT_BOL_LUMINOSITY','PHYS_LUMINOSITY_GENERAL']
+B_l		['Bl','BV']		float		['PHYS_MAG-FIELD']
+Mv		['VMag','MV']		float		['PHOT_ABS-MAG_BAND']
+V		['Vmag','V']		float		['PHOT_JHN_V','PHOT_MAG_V']
+B-V		['B-V']		float		['PHOT_CI_B-V','PHOT_JHN_B-V']
+logLx		['logLX','log10LX','LX','LXray']		float		['PHYS_LUMINOSITY_X']
+logRx		['logRx','logLX/Lbol','log10LX/LBol','LXb','LXbol']		float		['PHYS_LUMINOSITY_RATIO']
+logRHK		['logRHK','log10RHK']		float		['SPECT_INDEX_MISC','PHYS_EM-MEASURE','PHOT_FLUX_RATIO','SPECT_FLUX_RATIO']
+S		['S','GSval','SMW']		float		['SPECT_INDEX_MISC','PHOT_FLUX_RATIO','PHYS_EM-MEASURE','SPECT_FLUX_RATIO']
+logRo		['logRo','log10Ro']		float		['MODEL_PARAM']
+Ro		['Ro']		float		['MODEL_PARAM']
+vsini		['vsini']		float		['MODEL_PARAM','VELOC_ROTAT']
+FeH		['[Fe/H]','[M/H]','[FeH]','[Fe]']		float		['PHYS_ABUND_MISC','PHYS_ABUND_FE/H','PHYS_ABUND_Z']
