@@ -5,7 +5,7 @@ VizieR ALMA and SIMBAD Explorer
 
 ########################################################################
 
-VASE is a package which can be used to retrieve information about any astronomical object. It is however specially tuned for stellar observations. The directory structure of VASE is shown below.
+VASE is a package which can be used to retrieve information about any astronomical object searching across meta database of VizieR, ALMA Science Archive and SIMBAD. It is however specially tuned for stellar observations. The directory structure of VASE is shown below.
 
 Folders:
 
